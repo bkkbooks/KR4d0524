@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0524/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷
+  hash: sha256:ef4b231493a1de4836b09ee4240af62c0ae8962e29cda6652780d31fb6829897
+metadata:
+  title: 青陽先生文集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 00:39:21.533387'
+  source:
+    repository: kanripo
+    path: KR4d0524/KR4d0524_000.txt
+hash: sha256:fd7fbc9f55d7246a134ac75717f53ba633ffaf1dda9bbdaed27a3d1764cac4ae
