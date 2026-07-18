@@ -325,12 +325,14 @@ markers:
       ', id: KR4d0524_krp_002-bkkkrnewl54}
   - {type: line-break, offset: 1020, content: '', id: KR4d0524_SBCK_002-3a03}
   - {type: punctuation, offset: 1021, content: (, id: KR4d0524_krp_002-bkkpn1}
+  - {type: voice, offset: 1021, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1022, content: /, id: KR4d0524_krp_002-bkkpn2}
   - {type: substitution, offset: 1022, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: punctuation, offset: 1023, content: ), id: KR4d0524_krp_002-bkkpn3}
   - {type: substitution, offset: 1030, original: 䧟, replacement: 陷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19765}}
   - {type: substitution, offset: 1031, original: 没, replacement: 沒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19824}}
   - {type: punctuation, offset: 1036, content: (, id: KR4d0524_krp_002-bkkpn4}
+  - {type: voice, offset: 1036, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1037, content: /, id: KR4d0524_krp_002-bkkpn5}
   - {type: substitution, offset: 1037, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: punctuation, offset: 1038, content: ), id: KR4d0524_krp_002-bkkpn6}
@@ -519,6 +521,7 @@ markers:
       ', id: KR4d0524_krp_002-bkkkrnewl86}
   - {type: line-break, offset: 1645, content: '', id: KR4d0524_SBCK_002-4a09}
   - {type: punctuation, offset: 1662, content: (, id: KR4d0524_krp_002-bkkpn7}
+  - {type: voice, offset: 1662, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1663, content: /, id: KR4d0524_krp_002-bkkpn8}
   - {type: punctuation, offset: 1664, content: ), id: KR4d0524_krp_002-bkkpn9}
   - {type: 'kr:newline', offset: 1668, content: '
@@ -679,4 +682,4 @@ markers:
 
       ', id: KR4d0524_krp_002-bkkkrnewl111}
   back: []
-hash: sha256:1c76e5d0b148dfe2f91bb85fce314b8a21d1ca67efe8602a1365dad94ad48ddf
+hash: sha256:8a25962722df5b88d45666e0024d77ba834214d7117f413e4c1c6d1030d8109a
